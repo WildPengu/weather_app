@@ -1,0 +1,9 @@
+.weather-of-city {
+  box-shadow: inset 0px 0px 0px 1px black;
+  flex-basis: 33%;
+  padding: 30px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
